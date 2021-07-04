@@ -1,0 +1,10 @@
+- Install following lib by using pip in virtual environment:
+scrapy
+sqlalchemy
+MySQL-python
+beautifulsoup4
+slugify
+
+
+- Restore from dump to mysql db
+- Run: scrapy crawl rebelsport
